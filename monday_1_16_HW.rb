@@ -77,6 +77,6 @@ puts k[0] + k[1..7].length.to_s + k[8]
 string = "Denver"
 puts "#{string[0]}#{string.length - 2}#{string[-1]}"
 
-15.times do
-  puts "Hello"
-end
+# 15.times do
+#   puts "Hello"
+# end
